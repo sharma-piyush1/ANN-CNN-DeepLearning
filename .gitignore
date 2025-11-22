@@ -1,0 +1,32 @@
+
+-----------------------------------------------------
+
+### **📌 .gitignore**
+
+```gitignore
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Dataset folders (optional: remove if you want them in repo)
+dataset/
+training_set/
+test_set/
+single_prediction/
+
+# virtual environments
+env/
+venv/
+.venv/

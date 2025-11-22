@@ -30,4 +30,4 @@ single_prediction/
 env/
 venv/
 .venv/
-__MACOSX
+__MACOSX/
